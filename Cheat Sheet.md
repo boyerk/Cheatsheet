@@ -8,7 +8,7 @@
 (frequently switches between them.)
 
 **Visual Mode** = this mode will highlight anything that the cursor moves over, and will still apply 
-commands from normal mode, "v" will enter Visual Mode
+commands from normal mode, "v" will enter Visual Mode (can only be accessed from command/normal mode)
 
 ## Short Cuts
 
