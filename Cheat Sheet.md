@@ -12,7 +12,8 @@ commands from normal mode, "v" will enter Visual Mode
 
 ## Short Cuts
 
-```h = move cursor left
+```
+h = move cursor left
 
 j = move cursor down
 
@@ -66,4 +67,5 @@ Numbers = e.g number(j) will move you down that many lines "3j" will move you do
 
 f or F = finds the next letter or typed after it for example "fe" will find the next "e" if you type a number before it "5fh" this will find the fifth "h"
 
-/ = opens a text box to find a word pressing "n" will jump forward to each occurance of a word "N" will jump to previous occurances of the word```
+/ = opens a text box to find a word pressing "n" will jump forward to each occurance of a word "N" will jump to previous occurances of the word
+```
