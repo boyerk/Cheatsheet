@@ -12,11 +12,11 @@ commands from normal mode, "v" will enter Visual Mode
 
 ## Short Cuts
 
-```h = move cursor left```
+```h = move cursor left
 
 ```j = move cursor down```
 
-```k  = move cursor up```
+   k  = move cursor up
 
 ```w = move to the beginning of the next word```
 
