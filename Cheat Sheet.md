@@ -14,15 +14,15 @@ commands from normal mode, "v" will enter Visual Mode
 
 ```h = move cursor left
 
-  j = move cursor down
+j = move cursor down
 
-  k  = move cursor up
+k  = move cursor up
 
-  w = move to the beginning of the next word
+w = move to the beginning of the next word
 
-  e = move to the end of a word
+e = move to the end of a word
 
-  b = move to the beginning of a word
+b = move to the beginning of a word
 
 d = deletes, can be used with w, or e keys as well as numbers for example "d5w" would delete the 
 next 5 words
