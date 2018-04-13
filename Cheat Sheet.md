@@ -19,6 +19,8 @@ j = move cursor down
 
 k  = move cursor up
 
+l = move cursor to the right
+
 w = move to the beginning of the next word
 
 e = move to the end of a word
